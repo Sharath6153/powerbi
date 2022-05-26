@@ -146,9 +146,14 @@
 	```
 35. Difference between summarize and summarizecolumns
 	- https://www.sqlbi.com/articles/introducing-summarizecolumns/#:~:text=Another%20difference%20between%20SUMMARIZE%20and,only%20and%20no%20row%20context.
-36. Explain about data alerts ?
-- https://docs.microsoft.com/en-us/power-bi/create-reports/service-set-data-alerts
-37. 
+36. Difference betweeen Power BI desktop and Power BI Service
+37. How we can Create the Workspace
+38. Licenses in POwer BI service 
+39. can we create the new column in live database
+40. what method is used the get data 
+41. How we can acess data from the SSMS
+42. How we can connect live database in PowerBI
+43. Difference between column and measure
 	
 
 
